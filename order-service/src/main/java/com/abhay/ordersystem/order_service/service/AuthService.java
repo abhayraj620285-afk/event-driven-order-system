@@ -1,4 +1,4 @@
 package com.abhay.ordersystem.order_service.service;
 
-public class OrderService {
+public class AuthService {
 }
